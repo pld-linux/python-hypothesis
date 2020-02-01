@@ -1,3 +1,4 @@
+# NOTE: for versions >= 5.0.0 (for Python 3 only) see python3-hypothesis.spec
 #
 # Conditional build:
 %bcond_with	tests	# nothing currently
@@ -7,6 +8,7 @@
 Summary:	Hypothesis - library for property based testing
 Summary(pl.UTF-8):	Hypothesis - biblioteka do testowania opartego na własnościach
 Name:		python-hypothesis
+# keep 4.x here (see note above)
 Version:	4.57.1
 Release:	1
 License:	MPL v2.0
