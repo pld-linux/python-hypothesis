@@ -10,7 +10,7 @@ Summary(pl.UTF-8):	Hypothesis - biblioteka do testowania opartego na własności
 Name:		python-hypothesis
 # keep 4.x here (see note above)
 Version:	4.57.1
-Release:	2
+Release:	3
 License:	MPL v2.0
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/hypothesis/
